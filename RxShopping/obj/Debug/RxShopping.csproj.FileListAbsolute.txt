@@ -1,0 +1,6 @@
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxShopping\bin\Debug\RxShopping.exe.config
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxShopping\bin\Debug\RxShopping.exe
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxShopping\bin\Debug\RxShopping.pdb
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxShopping\obj\Debug\RxShopping.csprojResolveAssemblyReference.cache
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxShopping\obj\Debug\RxShopping.exe
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxShopping\obj\Debug\RxShopping.pdb

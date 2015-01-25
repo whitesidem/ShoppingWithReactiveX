@@ -1,0 +1,4 @@
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxTests\bin\Debug\RxTests.dll
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxTests\bin\Debug\RxTests.pdb
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxTests\obj\Debug\RxTests.dll
+C:\Source\gitub\Katas\ShoppingWithReactiveExtensions\RxTests\obj\Debug\RxTests.pdb
